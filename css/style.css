@@ -1,0 +1,12 @@
+.background {
+    background-image: url("../img/bg.png");
+    height: 1000px;
+    background-size: cover;
+    background-position: middle;
+} 
+.col{
+    color: white;
+}
+.col-2{
+    color: white;
+}
